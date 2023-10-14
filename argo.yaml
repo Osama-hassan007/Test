@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Osama-hassan007/Argo-Cd-Demo.git
+    repoURL: https://github.com/Osama-hassan007/Test.git
     targetRevision: HEAD #Last Commit on github
     path: dev
   destination:
